@@ -1,5 +1,5 @@
 
-# QA Engineering Learning Journey
+# QA Learning Journey
 
 ## Day 1 Project
 ### Data Quality Checker using Python
