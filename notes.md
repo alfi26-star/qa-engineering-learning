@@ -1,8 +1,6 @@
-day1-notes.md
-# Day 1 Notes
+notes.md
 
 ## What I Learned
-- QA is not only manual testing
 - Data validation is important
 - Edge cases matter
 - Structured functions improve readability
@@ -11,9 +9,3 @@ day1-notes.md
 - Handling missing values
 - Validating incorrect email formats
 - Standardizing status values
-
-## Next Goals
-- Learn pandas
-- Learn pytest
-- Learn API testing
-- Learn Selenium basics
