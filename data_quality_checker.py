@@ -1,6 +1,5 @@
 # data_quality_checker.py
-# Day 1 - Learning Python + Data Analysis with a QA mindset
-# Goal: Become a QA Engineer
+# Day 1 - Learning Python + Data Analysis with QA 
 
 import csv
 import statistics
