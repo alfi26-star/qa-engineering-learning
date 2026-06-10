@@ -6,7 +6,7 @@ import statistics
 from collections import Counter
 
 # ── Sample dataset (simulating a CSV of test results) ──────────────────────────
-# In real life you'd load this with: import pandas as pd; df = pd.read_csv("file.csv")
+
 
 RAW_DATA = [
     {"name": "Alice",   "age": 28,  "score": 95,  "email": "alice@test.com",  "status": "pass"},
